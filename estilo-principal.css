@@ -1,0 +1,23 @@
+header .entrada-principal {
+    text-align: center;
+}
+
+header .items {
+    display: inline;
+}
+
+header .lista-opciones {
+    position: absolute;
+    top: 30px;
+    left: 540px;
+}
+
+.imagen-presentacion {
+    width: 200px;
+    height: 250px;
+}
+
+.descripcion-personal {
+    border: 1px red solid;
+    margin: 0 220px;
+}
